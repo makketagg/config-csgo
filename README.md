@@ -16,4 +16,8 @@ Quality: Perfomance
 Digital Vibrance: 80%
 Display: Streched
 ```
-
+### Alaises
+### Jumpthrow
+```
+alias "+jumpthrow" "+jump;-attack"; alias "-jumpthrow" "-jump"; bind alt "+jumpthrow" 
+```
