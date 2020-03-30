@@ -1,7 +1,7 @@
 # config-csgo
 ## Launch options
 ```
--novid -console -tickrate 128 -w 1024 -h 768 -freq 144 +exec autoexec.cfg
+-novid -console -tickrate 128 -w 1280 -h 960 -freq 144 +exec autoexec.cfg
 ```
 ## Windows settings
 ### Sensitivity
@@ -14,5 +14,6 @@
 ```
 Quality: Perfomance
 Digital Vibrance: 80%
+Display: Streched
 ```
-### 
+
